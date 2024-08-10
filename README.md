@@ -1,13 +1,12 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de Software na Descomplica - Faculdade Digital.
-- 💼 Trabalhando como Estagiária na Livelo.
-- 🌱 Aprendendo mais sobre: Java, SpringBoot, MySQL, React.
+   🤔 Desbravando o caos digital e criando ordem com linhas de código.
+   
+   🎓 Estudante de Engenharia de Software na Descomplica - Faculdade Digital.
+   
+   👩‍💻 Estagiária na Livelo.
 
-## Minhas Skills
+## Skills
 
 **Aplicações e dados**
 
@@ -31,12 +30,16 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Spring Tool Suite 4](https://img.shields.io/badge/-Spring%20Tool%20Suite%204-6DB33F?style=flat&logo=spring&logoColor=FFFFFF)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
+<img
+align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-Nascimento&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+alt="Github Stats"
+/>
 
-<a href="https://github.com/Luana-Nascimento" title="Perfil da Luana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+
+<br/>
